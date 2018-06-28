@@ -1,0 +1,8 @@
+install.packages("ggplot2")
+install.packages("ggcorrplot")
+install.packages("Rmisc")
+install.packages("reshape2")
+install.packages("repr")
+install.packages("pracma")
+install.packages("matlab")
+install.packages("gridExtra")
